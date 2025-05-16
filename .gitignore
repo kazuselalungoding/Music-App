@@ -1,0 +1,12 @@
+# Umum
+node_modules
+.env
+dist
+.vscode
+
+# Vite (frontend)
+frontend/node_modules
+frontend/dist
+
+# Express (backend)
+backend/node_modules
